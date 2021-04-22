@@ -1,0 +1,29 @@
+body{
+    background-color:#e5e5e5;
+}
+.login-form{
+    padding-top:30px;
+    background-color: #eeeeee;
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    top:100px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    box-shadow: #22232391 2px 2px 4px;
+}
+.alert{
+    position:absolute;
+    left:50%;
+    top:5px;
+    transform:translateX(-50%);
+    padding:10px 20px;
+    border-radius:2px;
+    box-shadow:#0000007e 2px 2px 2px;
+    font-weight: 900;
+}
+.danger-alert{
+    background-color:#d45c5c;
+    color: #f0f6f0;
+}

@@ -1,0 +1,10 @@
+{
+    "autoload":{
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "steampixel/simple-php-router": "^0.7.0"
+    }
+}

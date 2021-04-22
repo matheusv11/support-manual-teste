@@ -1,0 +1,19 @@
+tbody > tr{
+    cursor: pointer;
+    transition: 0.3s;
+}
+tbody > tr{
+    cursor: pointer;
+    transition: 0.3s;
+}
+tbody > tr a{
+    text-decoration: none;
+}
+tbody > tr > td:first-child{
+    padding-left:10px;
+}
+
+tbody > tr:hover{
+    background-color: #222323;
+    color: #e99b36;
+}
